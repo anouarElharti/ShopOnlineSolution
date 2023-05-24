@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopOnline WASM", "ShopOnline WASM\ShopOnline WASM.csproj", "{CF969C2A-41FF-41C0-B17C-3141B13F24CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopOnline.Api", "ShopOnline.Api\ShopOnline.Api.csproj", "{3848F08C-62D9-4514-88D1-42CAE95111FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF969C2A-41FF-41C0-B17C-3141B13F24CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF969C2A-41FF-41C0-B17C-3141B13F24CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF969C2A-41FF-41C0-B17C-3141B13F24CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF969C2A-41FF-41C0-B17C-3141B13F24CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3848F08C-62D9-4514-88D1-42CAE95111FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3848F08C-62D9-4514-88D1-42CAE95111FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3848F08C-62D9-4514-88D1-42CAE95111FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3848F08C-62D9-4514-88D1-42CAE95111FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEC4374C-0713-4742-AD89-CD9D41CB8DAF}
+	EndGlobalSection
+EndGlobal
