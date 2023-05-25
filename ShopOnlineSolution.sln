@@ -3,14 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopOnline WASM", "ShopOnline WASM\ShopOnline WASM.csproj", "{CF969C2A-41FF-41C0-B17C-3141B13F24CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopOnline WASM", "ShopOnline WASM\ShopOnline WASM.csproj", "{CF969C2A-41FF-41C0-B17C-3141B13F24CF}"
 	ProjectSection(ProjectDependencies) = postProject
 		{3848F08C-62D9-4514-88D1-42CAE95111FF} = {3848F08C-62D9-4514-88D1-42CAE95111FF}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopOnline.Api", "ShopOnline.Api\ShopOnline.Api.csproj", "{3848F08C-62D9-4514-88D1-42CAE95111FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopOnline.Api", "ShopOnline.Api\ShopOnline.Api.csproj", "{3848F08C-62D9-4514-88D1-42CAE95111FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopOnline.Models", "ShopOnline.Models\ShopOnline.Models.csproj", "{1D8F00AF-4F47-4526-8CB7-51C85C15E822}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopOnline.Models", "ShopOnline.Models\ShopOnline.Models.csproj", "{1D8F00AF-4F47-4526-8CB7-51C85C15E822}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
